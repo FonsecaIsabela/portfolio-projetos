@@ -17,8 +17,7 @@ Apaixonada por criar aplicações móveis que fazem a diferença! Sempre em busc
 
 ## 📌 Projetos em destaque
 
-### 📱 [Android F-Mobile](https://github.com/FonsecalIsabela/android-fmobile)
-Aplicação Android desenvolvida com foco em boas práticas e arquitetura limpa.
+### 📱
 
 ### ☕ [Orientação a Objetos com Java](https://github.com/FonsecalIsabela/java-orientacao-objetos)
 Implementação dos conceitos fundamentais de POO aplicados no desenvolvimento Java.
